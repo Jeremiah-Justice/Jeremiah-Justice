@@ -1,5 +1,6 @@
 ### Hi there 👋
 Exsperience :took a codeing class about 2 summers ago
+
 WHhy took class: took class to learn how to code
 
 Intrests: I like computers and stuff
